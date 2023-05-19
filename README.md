@@ -1,2 +1,2 @@
-# react_weather_app
+# weather-react-app
 Weather Web App created with Mainly ReactJS
